@@ -128,7 +128,7 @@ def run_comparison(xml_file, pdf_file):
             os.remove(pdf_filepath)
 
 
-st.set_page_config(page_title="Role Validator Application", layout="centered")
+st.set_page_config(page_title="Dick Validator Application", layout="centered")
 st.title("📄 Dick Validator Application")
 st.markdown("Upload your XML file (containing defined roles) and PDF file (containing roles to validate).")
 
