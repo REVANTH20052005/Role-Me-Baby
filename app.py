@@ -129,7 +129,7 @@ def run_comparison(xml_file, pdf_file):
 
 
 st.set_page_config(page_title="Role Validator Application", layout="centered")
-st.title("📄 Role Validator Application")
+st.title("📄 Dick Validator Application")
 st.markdown("Upload your XML file (containing defined roles) and PDF file (containing roles to validate).")
 
 # File Uploaders
